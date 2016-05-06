@@ -1,0 +1,20 @@
+{
+  "name": "lion",
+  "homepage": "https://github.com/jmvargas19/lion",
+  "description": "Sitio web Lion Tecnology",
+  "main": "index.html",
+  "keywords": [
+    "tecnology"
+  ],
+  "authors": [
+    "Juan Manuel Vargas Castrillon - j.m.19vargas@hotmail.com"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
